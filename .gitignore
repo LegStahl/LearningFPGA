@@ -1,0 +1,7 @@
+*/db
+*/output_files
+*.cdf
+*.bak
+*/incremental_db
+./incremental_db
+*/simulation

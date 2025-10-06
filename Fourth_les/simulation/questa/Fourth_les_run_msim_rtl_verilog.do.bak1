@@ -1,0 +1,11 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les {C:/Users/stele/AppData/Local/quartus/Fourth_les/Fourth_les.v}
+vlog -vlog01compat -work work +incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les {C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit.v}
+vlog -vlog01compat -work work +incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les {C:/Users/stele/AppData/Local/quartus/Fourth_les/full_adder.v}
+

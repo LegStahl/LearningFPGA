@@ -1,0 +1,83 @@
+# Reading pref.tcl
+# OpenFile C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:57:05 on Oct 02,2025
+# vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 11:57:05 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:57:15 on Oct 02,2025
+# vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 11:57:15 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlib work
+vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:58:07 on Oct 02,2025
+# vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# -- Compiling module counter_vlg_tst
+# ** Error: C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v(12): (vlog-13161) unexpected '$display'
+# End time: 11:58:07 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vdel -all -lib work
+vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:58:33 on Oct 02,2025
+# vlog -reportprogress 300 -work work C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+# End time: 11:58:33 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:58:55 on Oct 02,2025
+# vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Warning: (vlog-7) Failed to open lock file "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock" in create mode.
+# Permission denied. (errno = EACCES)
+# -- Cannot create lockfile "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock".
+# Verilog Compiler exiting
+# End time: 11:58:55 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:58:58 on Oct 02,2025
+# vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Warning: (vlog-7) Failed to open lock file "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock" in create mode.
+# Permission denied. (errno = EACCES)
+# -- Cannot create lockfile "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock".
+# Verilog Compiler exiting
+# End time: 11:58:58 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:58:58 on Oct 02,2025
+# vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Warning: (vlog-7) Failed to open lock file "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock" in create mode.
+# Permission denied. (errno = EACCES)
+# -- Cannot create lockfile "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock".
+# Verilog Compiler exiting
+# End time: 11:58:58 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:58:59 on Oct 02,2025
+# vlog -reportprogress 300 -work verilog C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Warning: (vlog-7) Failed to open lock file "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock" in create mode.
+# Permission denied. (errno = EACCES)
+# -- Cannot create lockfile "C:/intelFPGA/20.1/modelsim_ase/verilog/_lock".
+# Verilog Compiler exiting
+# End time: 11:58:59 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+vlog -reportprogress 300 -work cyclone10lp C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 11:59:24 on Oct 02,2025
+# vlog -reportprogress 300 -work cyclone10lp C:/Users/stele/AppData/Local/quartus/Fifth_les/Fifth_testbench.v 
+# ** Warning: (vlog-7) Failed to open lock file "C:/intelFPGA/20.1/modelsim_ase/altera/vhdl/cyclone10lp/_lock" in create mode.
+# Permission denied. (errno = EACCES)
+# -- Cannot create lockfile "C:/intelFPGA/20.1/modelsim_ase/altera/vhdl/cyclone10lp/_lock".
+# Verilog Compiler exiting
+# End time: 11:59:24 on Oct 02,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1

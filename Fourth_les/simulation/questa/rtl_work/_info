@@ -1,0 +1,132 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/stele/AppData/Local/quartus/Fourth_les/simulation/questa
+vadder_4bit
+Z1 !s110 1759316372
+!i10b 1
+!s100 [2218V<c1@:[j12z^e[de0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Iz2N[7Q;=Y7bYH>_hV3W431
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1759155934
+8C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit.v
+FC:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit.v
+!i122 1
+L0 2 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1759316372.000000
+!s107 C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les|C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les
+Z8 tCvgOpt 0
+vadder_4bit_tb
+R1
+R3
+r1
+!s85 0
+!i10b 1
+!s100 i8lNXil8z3g7:3a>L@fT40
+I^28TgU4]=RQfAm10NXaH90
+R0
+Z9 w1759310945
+Z10 8C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit_tb.v
+Z11 FC:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit_tb.v
+!i122 3
+L0 3 45
+R4
+31
+R5
+!s107 C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit_tb.v|
+Z12 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les|C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit_tb.v|
+!i113 1
+R6
+R7
+R8
+Xadder_4bit_tb_v_unit
+R1
+V<QYSnPoZAlfZ90>G@7a9h1
+r1
+!s85 0
+!i10b 1
+!s100 ?ABI=UCj=9QYGfXneZYDg3
+I<QYSnPoZAlfZ90>G@7a9h1
+!i103 1
+S1
+R0
+R9
+R10
+R11
+!i122 3
+L0 1 0
+R4
+31
+R5
+Z13 !s107 C:/Users/stele/AppData/Local/quartus/Fourth_les/adder_4bit_tb.v|
+R12
+!i113 1
+R6
+R7
+R8
+vFourth_les
+R1
+!i10b 1
+!s100 k52kfgf;_<@TKcd0`Lf<P2
+R2
+IAH6DFWOOUmj=6Z`TMj5ah0
+R3
+R0
+w1759308988
+8C:/Users/stele/AppData/Local/quartus/Fourth_les/Fourth_les.v
+FC:/Users/stele/AppData/Local/quartus/Fourth_les/Fourth_les.v
+!i122 0
+L0 1 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/stele/AppData/Local/quartus/Fourth_les/Fourth_les.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les|C:/Users/stele/AppData/Local/quartus/Fourth_les/Fourth_les.v|
+!i113 1
+R6
+R7
+R8
+n@fourth_les
+vfull_adder
+R1
+!i10b 1
+!s100 OPlcEzGZbdk?XimeGnP713
+R2
+I[5o0X;LAagd3Q3h6^jS[H0
+R3
+R0
+w1759155901
+8C:/Users/stele/AppData/Local/quartus/Fourth_les/full_adder.v
+FC:/Users/stele/AppData/Local/quartus/Fourth_les/full_adder.v
+!i122 2
+L0 2 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/stele/AppData/Local/quartus/Fourth_les/full_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/stele/AppData/Local/quartus/Fourth_les|C:/Users/stele/AppData/Local/quartus/Fourth_les/full_adder.v|
+!i113 1
+R6
+R7
+R8
