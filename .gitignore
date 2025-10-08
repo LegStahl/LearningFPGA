@@ -5,3 +5,6 @@
 */incremental_db
 ./incremental_db
 */simulation
+*.qws
+*.qsf
+*.qpf
