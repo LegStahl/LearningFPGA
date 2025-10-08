@@ -47,7 +47,7 @@ module my_logic #(
                         led_check[0] <= 1;
                         led_check[1] <= 1;
 								current_state <= S_IDLE;
-								//success2 <= 0;
+								
                     end else begin
                         current_state <= S_IDLE;
                         led_check[0] <= 1;
