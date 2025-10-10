@@ -1,4 +1,8 @@
 # Learning FPGA 
+## Hardware description
+Development board __OMDAZZ__ is used in this education curse. FPGA is __Cyclone IV EP4CE6E22__. Board is programmed through __USB Blaster__. More information about board can be found 
+here https://habr.com/ru/articles/749298/?ysclid=mgkkxm682a619204809.
+
 ## Description of works
 1.  *(First_in_course and Blink)*. Main goal is to build a simple logic by using primitives as (__and__, __or__, __not__) blocks. 
 2.  *(Prime_number)*. Main goal is by using previous blocks create a detector of simple numbers. Map of Karno was done. 
