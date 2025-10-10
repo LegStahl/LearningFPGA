@@ -10,5 +10,5 @@
 
 ### FIRST IN COURSE and BLINK
 
-![alt text](images/first_in_curse)
+![alt text](images/first_in_curse.png)
    
