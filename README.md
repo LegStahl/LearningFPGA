@@ -6,15 +6,31 @@
 4.  *(Fourth_les)*. Creating a __4-bit summator__ by using Verilog. Testbenches were added.
 5.  *(Fifth_les)*. __4-bit counter__ was created that can count up and down. Decoder for seven segments indicator was made. Range_analyzer that can indicate at which level an input number sets.
 6.  *(Sixth_les)*. Decoder and counter were combined in this work.
-7.  *(Seventh_les)*. __Machine state work was done__. There are some sequence code which must be set without interrupting.
+7.  *(Seventh_les)*. __Machine state work was done__. There are some sequence code which must be set without interrupting. Pulse extender and Button debouncer were made.
+8.  *(Eighth_les)*. testbenches for shift register. And shiht register was done.
 
 ### FIRST IN COURSE and BLINK
 
 ![alt text](images/first_in_curse.png)
    
 
-Managing LEDs by primitives blocks.
-
-
-### PIME_NUMBER
+### PRIME NUMBER
 ![alt text](images/Prime_num_task.png)
+
+
+### THIRD LES
+![alt text](images/trigger.png)
+
+### FOURTH LES
+![alt text](images/adder_4bit.png)
+![alt text](images/adder_4BitDia.png)
+
+### FIFTH LES AND SIXTH LES
+![alt text](images/decoder.png)
+![alt text](images/range_analyzer.png)
+
+### SEVENTH LES
+![alt text](images/sevetnh_les.png)
+
+### EIGHTH LES
+![alt text](images/time_diag_8_2.png)
