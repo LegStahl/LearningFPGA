@@ -30,7 +30,7 @@
 ![alt text](images/range_analyzer.png)
 
 ### SEVENTH LES
-![alt text](images/sevetnh_les.png)
+![alt text](images/seventh_les.png)
 
 ### EIGHTH LES
 ![alt text](images/time_diag_8_2.png)
