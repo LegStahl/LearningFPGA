@@ -1,6 +1,6 @@
 # Learning FPGA 
 ## Description of works
-1.  *(First_in_course and Blink)*. Main goal is t0 build a simple logic by using primitives as (__and__, __or__, __not__) blocks. 
+1.  *(First_in_course and Blink)*. Main goal is to build a simple logic by using primitives as (__and__, __or__, __not__) blocks. 
 2.  *(Prime_number)*. Main goal is by using previous blocks create a detector of simple numbers. Map of Karno was done. 
 3.  *(Third_les)*. Goal of this work is to create __D-trigger__ by using simple logic primitives. (__RS-trigger__, __D-latch__).
 4.  *(Fourth_les)*. Creating a __4-bit summator__ by using Verilog. Testbenches were added.
