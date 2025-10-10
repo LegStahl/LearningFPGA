@@ -17,4 +17,4 @@ Managing LEDs by primitives blocks.
 
 
 ### PIME_NUMBER
-![alt text](images/prime_num_task.png)
+![alt text](images/Prime_num_task.png)
