@@ -12,3 +12,9 @@
 
 ![alt text](images/first_in_curse.png)
    
+
+Managing LEDs by primitives blocks.
+
+
+### PIME_NUMBER
+![alt text](images/prime_number.png)
