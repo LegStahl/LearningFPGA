@@ -12,6 +12,7 @@ here https://habr.com/ru/articles/749298/?ysclid=mgkkxm682a619204809.
 6.  *(Sixth_les)*. Decoder and counter were combined in this work.
 7.  *(Seventh_les)*. __Machine state work was done__. There are some sequence code which must be set without interrupting. Pulse extender and Button debouncer were made.
 8.  *(Eighth_les)*. testbenches for shift register. And shiht register was done.
+9.  *(Nineth_les)*. Simulation of ROM memory was made. Program reads data from .hex file and then can address to memory.
 
 ### FIRST IN COURSE and BLINK
 
@@ -38,3 +39,6 @@ here https://habr.com/ru/articles/749298/?ysclid=mgkkxm682a619204809.
 
 ### EIGHTH LES
 ![alt text](images/time_diag_8_2.png)
+
+### NINETH LES
+![alt text](images/RTL_Diag.png)
