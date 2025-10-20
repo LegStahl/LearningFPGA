@@ -1,3 +1,4 @@
+
 module decoder(
 	input [3:0] binary_in,
 	output reg [6:0] segments,
@@ -8,6 +9,7 @@ module decoder(
 	
 	always @(*)begin
 		enable = 1;
+		
 		case(binary_in)
 			(4'd1):begin
 				
@@ -74,4 +76,5 @@ module decoder(
 	end
 
 
+>>>>>>> 528c925732aea2310508f0aa3d5b79e5f2ea1c14
 endmodule

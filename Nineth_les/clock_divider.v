@@ -1,3 +1,4 @@
+
 module clock_divider #(parameter MAX_1 = 50000000)
 (
 	output  out,
@@ -6,7 +7,6 @@ module clock_divider #(parameter MAX_1 = 50000000)
 	
 
 );
-
 	
 	 
 	integer i = 0;
@@ -16,11 +16,8 @@ module clock_divider #(parameter MAX_1 = 50000000)
 		if(reset == 1'd0 || i == MAX_1) begin 
 			i <= 0;
 		end
-	
+		
 	end
-
-
-
 
 
 endmodule
